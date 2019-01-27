@@ -1,0 +1,15 @@
+Libraries / external downloads used for project: Synthesizer
+
+LWJGL 3.0 
+- LWJGL Core
+- OpenAL
+    - binding to OpenAL native 3D audio API
+    - mono, stereo, 4-channel, 5.1, 6.1, 7.1, HRTF, and B-Format output. 
+    - It does not support the Vorbis and MP3 extensions
+    - used to interface the audio playback
+- will only need jar files 
+- add as Libraries
+    - project properties
+    - Libraries 
+    - add external jars
+
